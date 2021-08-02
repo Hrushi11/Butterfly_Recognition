@@ -11,6 +11,8 @@ Valid set consists of 250 images partitioned into 50 sub directories with 5 vali
 labels is the string name of the species associate with the image file.
 dataset species the directory (train, test, valid) that contains the image file.
 
+Model 2 is the best model and is the one used in the app.
+
 **Random images from the dataset :**
 
 ![IMG](https://github.com/Hrushi11/Butterfly_Recognition/blob/main/images/random%20images.png?raw=true)
