@@ -12,6 +12,8 @@ Valid set consists of 250 images partitioned into 50 sub directories with 5 vali
 1 CSV file is included with 3 columns filepaths, labels and dataset. filepaths is the relative path to an image.
 labels is the string name of the species associate with the image file. dataset species the directory (train, test, valid) that contains the image file.
 
+![IMG](https://raw.githubusercontent.com/Hrushi11/Butterfly_Recognition/main/images/random_imgs.jpg)
+
 The model classifies for the given classes - 'adonis','american snoot','an 88','banded peacock','beckers white','black hairstreak',
 'cabbage white','chestnut','clodius parnassian','clouded sulphur','copper tail','crecent','crimson patch','eastern coma','gold banded',
 'great eggfly','grey hairstreak','indra swallow','julia','large marble','malachite','mangrove skipper','metalmark','monarch','morning cloak',
